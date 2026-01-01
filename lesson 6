@@ -18,7 +18,7 @@
 
             <h1>typography</h1>
 
-            <p class="text1">welcome to codingal</p>
+            <p class="text">welcome to codingal</p>
 
             <p clas="p1">welcome to codingal</p>
 
@@ -26,4 +26,5 @@
 
 
         </body>
+
 </html>
